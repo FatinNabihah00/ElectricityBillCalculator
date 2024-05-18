@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Electricity Bill App</string>
+
+    <string name="rebate_percentage_0_5">Rebate Percentage (0% - 5%)</string>
+    <string name="number_of_unit_in_kwh">Number of Unit in kWh</string>
+    <string name="calculate_bill">Calculate Bill</string>
+    <string name="total_charges">Total Charges:</string>
+    <string name="final_cost">Final Cost:</string>
+    <string name="electricity_bill_calculator">Electricity Bill Calculator</string>
+    <string name="_2024_electricity_bill_calculator_all_right_reserved">© 2024 Electricity Bill Calculator. All right reserved.</string>
+    <string name="about_me">ABOUT ME</string>
+    <string name="back">Back</string>
+    <string name="developed_by_fatin_nabihah_binti_saidana">Developed by FATIN NABIHAH BINTI SAIDANA</string>
+    <string name="group_rcdcs2515b">Group: RCDCS2515B</string>
+    <string name="student_number_2022977865">Student Number: 2022977865</string>
+    <string name="programme_code_cs251">Programme Code: CS251</string>
+    <string name="visit_my_website_in_github_https_github_com_fatinnabihah_electricitybillapp">Visit my website in Github:https://github.com/FatinNabihah/ElectricityBillApp/</string>
+    <string name="_2024_electricity_bill_app_all_right_reserved">© 2024 Electricity Bill App. All right reserved.</string>
+</resources>
